@@ -1,0 +1,10 @@
+julia 0.7
+DataFrames
+CSV
+UnicodePlots
+ProgressMeter
+Printf
+Distributed
+Statistics
+DelimitedFiles
+LinearAlgebra
